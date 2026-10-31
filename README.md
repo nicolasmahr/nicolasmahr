@@ -24,8 +24,6 @@ I work on making robots easier to control for the people who use them, with a fo
 
 **Languages:** Python · C++ · C · MATLAB/Simulink
 
-**Automation:** TwinCAT 3 · Siemens TIA Portal
-
 ### 📫 Connect
 
 [LinkedIn](https://www.linkedin.com/in/nicolas-mahr-062458281/)
